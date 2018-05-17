@@ -1,15 +1,15 @@
 [
     {
-        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_choose_flash_cards.xml.flat",
+        "source": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\src\\main\\res\\layout\\activity_choose_flash_cards.xml"
     },
     {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_choose_flash_cards.xml.flat",
-        "source": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\src\\main\\res\\layout\\activity_choose_flash_cards.xml"
+        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_design_tint_password_toggle.xml.flat",
@@ -36,12 +36,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ac37e648843a3d3dfc8c8e8c056e64db\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ac37e648843a3d3dfc8c8e8c056e64db\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
-    },
-    {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ac37e648843a3d3dfc8c8e8c056e64db\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     },
     {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -64,12 +64,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
-        "source": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\src\\main\\res\\layout\\content_main.xml"
-    },
-    {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -136,12 +136,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -204,12 +204,12 @@
         "source": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\src\\main\\res\\drawable\\namele_shadow_right_small.png"
     },
     {
-        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\color\\abc_tint_edittext.xml"
     },
     {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -220,12 +220,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_light.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\color\\abc_hint_foreground_material_light.xml"
-    },
-    {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
@@ -244,12 +244,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ac37e648843a3d3dfc8c8e8c056e64db\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable_namele_light.png.flat",
@@ -296,12 +296,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -344,24 +344,24 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_bottom_navigation_item_background.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ac37e648843a3d3dfc8c8e8c056e64db\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable\\notification_icon_background.xml"
+        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -416,12 +416,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
@@ -448,12 +448,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sentences.xml.flat",
-        "source": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\src\\main\\res\\layout\\activity_sentences.xml"
-    },
-    {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sentences.xml.flat",
+        "source": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\src\\main\\res\\layout\\activity_sentences.xml"
     },
     {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_password_eye.xml.flat",
@@ -496,12 +496,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ac37e648843a3d3dfc8c8e8c056e64db\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
-    },
-    {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ac37e648843a3d3dfc8c8e8c056e64db\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -564,12 +564,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\cc639946205062b8264ba5417df4a96d\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",

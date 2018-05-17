@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu May 17 18:20:28 SBT 2018
+#Thu May 17 18:39:09 SBT 2018
 2.base=C\:\\Users\\gwhitmore\\Desktop\\VanuatuLanguages\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
 5.set=DEX
 0.path=classes.dex
