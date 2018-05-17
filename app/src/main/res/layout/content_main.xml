@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="ogcio.vanuatulanguages.MainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/dictionaryButton1"
+        android:layout_width="200dp"
+        android:layout_height="110dp"
+        android:layout_above="@+id/flashCardsButton1"
+        android:layout_alignStart="@+id/sentencesButton1"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/namele_shadow_left_small"
+        android:onClick="dictionaryButtonClicked"
+        android:text="@string/dictionary_button"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/sentencesButton1"
+        android:layout_width="200dp"
+        android:layout_height="110dp"
+        android:layout_below="@+id/flashCardsButton1"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_alignParentStart="true"
+        android:background="@drawable/namele_shadow_left_small"
+        android:onClick="sentencesButtonClicked"
+        android:text="@string/sentences_button"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/flashCardsButton1"
+        android:layout_width="200dp"
+        android:layout_height="110dp"
+        android:layout_marginEnd="20dp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/namele_shadow_right_small"
+        android:onClick="flashCardsButtonClicked"
+        android:text="@string/flash_cards_button"
+        android:textColor="@color/white" />
+
+</RelativeLayout>

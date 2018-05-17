@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="ogcio.vanuatulanguages.MainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/spacer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"/>
+
+    <Button
+        android:id="@+id/dictionaryButton"
+        android:layout_width="200dp"
+        android:layout_height="110dp"
+        android:layout_above="@+id/spacer"
+        android:layout_marginBottom="5dp"
+        android:layout_alignStart="@+id/sentencesButton"
+        android:background="@drawable/namele_shadow_left_small"
+        android:onClick="dictionaryButtonClicked"
+        android:text="@string/dictionary_button"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/sentencesButton"
+        android:layout_width="200dp"
+        android:layout_height="110dp"
+        android:layout_below="@id/spacer"
+        android:layout_toStartOf="@+id/spacer"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/namele_shadow_left_small"
+        android:onClick="sentencesButtonClicked"
+        android:text="@string/sentences_button"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/flashCardsButton"
+        android:layout_width="200dp"
+        android:layout_height="110dp"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@id/spacer"
+        android:background="@drawable/namele_shadow_right_small"
+        android:onClick="flashCardsButtonClicked"
+        android:text="@string/flash_cards_button"
+        android:textColor="@color/white" />
+
+</RelativeLayout>

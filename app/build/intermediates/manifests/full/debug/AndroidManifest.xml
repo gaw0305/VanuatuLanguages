@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ogcio.vanuatulanguages"
+    android:versionCode="2"
+    android:versionName="1.1" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="ogcio.vanuatulanguages.DictionaryActivity"
+            android:label="Dictionary"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="ogcio.vanuatulanguages.SentencesActivity"
+            android:label="@string/title_activity_sentences"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="ogcio.vanuatulanguages.FlashCardsActivity"
+            android:label="@string/title_activity_flash_cards"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="ogcio.vanuatulanguages.ChooseFlashCardSet"
+            android:label="Flash Cards"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="ogcio.vanuatulanguages.MainActivity"
+            android:theme="@style/splashScreenTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
